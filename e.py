@@ -7,13 +7,7 @@ for i in range(1,a+1):
     except:
         print("Already Exist")
 
-b=int(input("enter no of files you want to make "))
 
-print(b)
-for i in range(1,b+1):
-       os.touch(input())
-       
-    
          
 
 
